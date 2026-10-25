@@ -21,6 +21,12 @@ namespace LINQ01
             //                        .Select(p => $"Name:{p.ProductName} - Price:{p.UnitPrice}"); 
             #endregion
 
+            #region Q4
+
+            //var result = ProductList.Where(p => p.UnitPrice>=10 && p.UnitPrice<=30)
+            //                        .Select(p => p); 
+            #endregion
+
 
 
 
