@@ -32,6 +32,16 @@ namespace LINQ01
             //                        .Select(p =>p); 
             #endregion
 
+            #region Q6
+            //var result = ProductList.Select(p => new {
+            //    Name=p.ProductName,
+            //    Price=p.UnitPrice,
+            //    StockStatus=p.UnitsInStock>0?"Available" :"Out of stock"
+            //}); 
+            #endregion
+
+
+
 
 
 
