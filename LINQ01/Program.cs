@@ -56,6 +56,18 @@ namespace LINQ01
             //                        .Select(p => $"Name:{p.ProductName} - Stock:{p.UnitsInStock}"); 
             #endregion
 
+            #region Q10
+            //var result = from c in CustomerList
+            //             from o in c.Orders
+            //             where o.OrderDate.Year >= 1997
+            //             select new
+            //             {
+            //                 c.CustomerID,
+            //                 o.OrderID
+            //             }; 
+            #endregion
+
+
 
 
 
