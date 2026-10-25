@@ -79,6 +79,11 @@ namespace LINQ01
             //                .ThenBy(p => p , StringComparer.OrdinalIgnoreCase ); 
             #endregion
 
+            #region Q13
+            //String[] Arr = { "aPiPLE", "AbAcUs", "bRaNcH", "BilUeBeRrY", "CilOvEr", "cHeRry" };
+            //var result = Arr.Where(p => p[1] == 'i')
+            //                .Reverse(); 
+            #endregion
 
 
 
