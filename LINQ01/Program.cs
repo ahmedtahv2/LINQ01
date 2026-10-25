@@ -72,6 +72,13 @@ namespace LINQ01
 
             #endregion
 
+            #region Q12
+            //String[] Arr = { "aPPLE", "AbAcUs", "bRaNcH", "BlUeBeRrY", "ClOvEr", "cHeRry" };
+
+            //var result = Arr.OrderBy(p => p.Length)
+            //                .ThenBy(p => p , StringComparer.OrdinalIgnoreCase ); 
+            #endregion
+
 
 
 
