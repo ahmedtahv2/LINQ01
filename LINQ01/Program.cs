@@ -50,6 +50,11 @@ namespace LINQ01
             //                        .Select(p => p); 
             #endregion
 
+            #region Q9
+            //var result = ProductList.Where(p => p.Category == "Beverages")
+            //                        .OrderByDescending(p => p.UnitsInStock)
+            //                        .Select(p => $"Name:{p.ProductName} - Stock:{p.UnitsInStock}"); 
+            #endregion
 
 
 
