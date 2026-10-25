@@ -40,9 +40,20 @@ namespace LINQ01
             //}); 
             #endregion
 
-            #region Q6
+            #region Q7
             //var result = ProductList.Select((p , i) =>  $"{i+1}. {p.ProductName}");
             #endregion
+
+            #region Q8
+            //var result = ProductList.OrderBy(p => p.Category)
+            //                        .ThenByDescending(p => p.UnitPrice)
+            //                        .Select(p => p); 
+            #endregion
+
+
+
+
+
 
 
 
