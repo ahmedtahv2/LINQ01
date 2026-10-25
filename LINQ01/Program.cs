@@ -16,6 +16,10 @@ namespace LINQ01
             //var result = ProductList.Select(p => p.ProductName); 
             #endregion
 
+            #region Q3
+            //var result = ProductList.OrderBy(p => p.UnitPrice)
+            //                        .Select(p => $"Name:{p.ProductName} - Price:{p.UnitPrice}"); 
+            #endregion
 
 
 
