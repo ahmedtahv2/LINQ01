@@ -40,7 +40,9 @@ namespace LINQ01
             //}); 
             #endregion
 
-
+            #region Q6
+            //var result = ProductList.Select((p , i) =>  $"{i+1}. {p.ProductName}");
+            #endregion
 
 
 
