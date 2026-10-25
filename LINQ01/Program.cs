@@ -27,6 +27,11 @@ namespace LINQ01
             //                        .Select(p => p); 
             #endregion
 
+            #region Q5
+            //var result = ProductList.Where(p => p.UnitsInStock>0 && p.Category == "Condiments")
+            //                        .Select(p =>p); 
+            #endregion
+
 
 
 
